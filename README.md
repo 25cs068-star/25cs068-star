@@ -10,7 +10,10 @@
 
 ### 🛠️ Languages and Skills
 - C Programming  
-- HTML  
+- HTML
+- C++
+- JAVA
+ 
 
 ---
 
